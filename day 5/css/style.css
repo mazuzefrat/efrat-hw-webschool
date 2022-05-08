@@ -1,0 +1,39 @@
+* {
+    padding: 25px;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.fa-solid{}
+.round{
+    border-radius: 50%;
+}
+#homebtn{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+   
+}
+#second{
+    background-color: yellow;
+    height: 500px;
+    top: 20px;
+    left: 50px;   
+
+}
+#third{
+    background-color: green;
+    width: 50%;
+    height: 50%;
+}
+#fourth{
+
+background-color:blue;
+width: 25%;
+height: 25%;
+position: absolute;
+top: 35px;
+left: 45px;
+}
